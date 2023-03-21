@@ -3,7 +3,7 @@ I am working on a raspberry pi machine learning model
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Kevin Miller | RIT | Electrical Engineering | Graduated 
+| Parker Majchrzak | School of theArts | Mechanical Engineering | 11th 
 
 ![Relevant Name](https://cdn-shop.adafruit.com/970x728/4296-11.jpg)
   
