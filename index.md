@@ -11,12 +11,12 @@ I am working on a raspberry pi machine learning model
 My final milestone is...
 
 
-[![Final Milestone]
+
 
 # Second Milestone
 My second milestone is...
 
-[![Third Milestone](
+
 # First Milestone
   
 
