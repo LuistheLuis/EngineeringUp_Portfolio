@@ -5,7 +5,7 @@ I am working on a raspberry pi machine learning model
 |:--:|:--:|:--:|:--:|
 | Parker Majchrzak | School of theArts | Mechanical Engineering | 11th 
 
-![Relevant Name][https://cdn.shopify.com/s/files/1/0474/7729/3217/t/3/assets/a3004-1660095911126_1200x.jpg?v=1660095910]
+![Relevant Name](https://cdn.shopify.com/s/files/1/0474/7729/3217/t/3/assets/a3004-1660095911126_1200x.jpg?v=1660095910)
   
 # Final Milestone
 My final milestone is...
