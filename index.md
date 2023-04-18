@@ -13,7 +13,8 @@ My final milestone is...
 
 
 
-![Relevant Name](file:///Users/parkermajcrhzak/Pictures/Photos%20Library.photoslibrary/private/com.apple.Photos/ExternalEditSessions/E25DD9CB-0987-4825-A825-699AB097622B/IMG_2080.jpg)
+![Relevant Name]
+
 
 
 # First Milestone
