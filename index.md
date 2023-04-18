@@ -1,4 +1,4 @@
-﻿# Coded Robot Car
+﻿# Sir Kickington, the coded robot car
 I am working on a code powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project I will add my own creative spin to the project and creat something amazingly unique.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
