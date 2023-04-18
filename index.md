@@ -3,11 +3,10 @@ I am working on a code powered car that runs off code I made in the Arudino IDE 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Parker Majchrzak | School of theArts | Mechanical Engineering | 11th 
+| Parker M.| School of theArts | Mechanical Engineering | 11th 
 
 ![Relevant Name](https://cdn.shopify.com/s/files/1/0474/7729/3217/t/3/assets/a3004-1660095911126_1200x.jpg?v=1660095910)
-![Relevant Name](https://m.media-amazon.com/images/M/MV5BYmNlOTNlYjUtM2U3Yy00M2ZjLTkxZDQtN2NiNGZiZDI0ZjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_QL75_UX190_CR0,0,190,281_.jpg)
-# Final Milestone
+
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. While my first idea was a punching boxing glove, I ran into complications so I had to compromise with an equally as fun kick! I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
 
