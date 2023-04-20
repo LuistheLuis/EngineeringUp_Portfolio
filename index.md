@@ -11,9 +11,8 @@ I am working on a code powered car that runs off code I made in the Arudino IDE 
 
 My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. While my first idea was a punching boxing glove, I ran into complications so I had to compromise with an equally as fun kick! I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
-
-
-
+# Final Schematic Sir Kickington 
+![Relevant Name](https://live.staticflickr.com/65535/52833025426_5e2fea213b_h.jpg)
 
 
 # First Milestone
