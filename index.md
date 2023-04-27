@@ -5,7 +5,7 @@ I am working on a code powered car that runs off code I made in the Arudino IDE 
 |:--:|:--:|:--:|:--:|
 | Parker M.| School of theArts | Mechanical Engineering | 11th 
 
-![Relevant Name][(https://live.staticflickr.com/65535/52828091626_ddf777e7c5_c.jpg)]
+![Relevant Name](https://live.staticflickr.com/65535/52828091626_ddf777e7c5_c.jpg)
 
 # Final Milestone
 
