@@ -1,5 +1,5 @@
 ﻿# Sir Kickington, the coded robot car
-I am working on a code powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project I will add my own creative spin to the project and creat something amazingly unique.
+I am working on a code powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project I have added my own creative spin to the project and created something amazingly unique.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -9,7 +9,7 @@ I am working on a code powered car that runs off code I made in the Arudino IDE 
 
 # Final Milestone
 
-My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. While my first idea was a punching boxing glove, I ran into complications so I had to compromise with an equally as fun kick! I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
+My final milestone, I've come a long way from where I started just a couple of months ago and have added a lot to my project. I've stripped away a lot of the parts that were originally on the robot to create room for my kicking arm. I changed the code a lot to accommodate the second H-Bridge which I go more in-depth about in my video below. I've loved this journey so far and I can't wait to see where this takes me in my future career.
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
