@@ -1,9 +1,9 @@
 ﻿# Sir Kickington, the coded robot car
-I am working on a code powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project I have added my own creative spin to the project and created something amazingly unique.
+I am working on a code-powered car that runs off code I made in the Arudino IDE software which works in tandem with the Arduino microcontroller. During this project, I have added my own creative spin to the project and created something amazingly unique.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Parker M.| School of theArts | Mechanical Engineering | 11th 
+| Parker M.| School of the Arts | Mechanical Engineering | 11th 
 
 ![Relevant Name](https://live.staticflickr.com/65535/52852175615_c29c92411d_c.jpg)
 
