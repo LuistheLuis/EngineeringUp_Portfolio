@@ -13,12 +13,12 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
-# Final Schematic Sir Kickington 
-![Relevant Name](https://live.staticflickr.com/65535/52833486018_300de50504_h.jpg)
+# Secound milestone 
+[![Luis Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1700601114/video_to_markdown/images/youtube--aZ8AYMIFTZI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aZ8AYMIFTZI "Luis Milestone #2")
 
 # First Milestone
   
 
-My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arudino Uno microcontroller is and how an H-Bridge works.
+My first milestone was being able to first build the Adruino car, then, be able to wire the arduino to then make it move via wires. Then i was able to code the Arduino IDE allowing it to move via the microcontroller the  Arduino IDE. 
 
 [![Luis Milestone #1](https://res.cloudinary.com/marcomontalbano/image/upload/v1700177342/video_to_markdown/images/youtube--fTIqqK6hcFU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fTIqqK6hcFU "Luis Milestone #1")
