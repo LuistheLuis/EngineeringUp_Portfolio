@@ -3,7 +3,7 @@ I am working on billy my code powered car. Ive worked with the R3 Arduino board 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Luis.C.| East HighSchool | Software Developer  | 10th 
+| Luis.C| East HighSchool | Software Developer  | 10th 
 
 ![Relevant Name](
 
