@@ -14,6 +14,9 @@ My final milestone, I've come a long way from where I started just a couple of m
 [![Final Arduino Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1682461069/video_to_markdown/images/youtube--IPL8EP8abRU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IPL8EP8abRU "Final Arduino Project")
 
 # Secound milestone 
+
+My secound milestone was me being able to code the microcontroler to have Billy move with a controller. I also have enough knowlege to explain in detail how the IR reciver works with a controler. 
+
 [![Luis Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1700601114/video_to_markdown/images/youtube--aZ8AYMIFTZI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aZ8AYMIFTZI "Luis Milestone #2")
 
 # First Milestone
