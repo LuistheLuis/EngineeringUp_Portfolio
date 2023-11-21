@@ -1,4 +1,4 @@
-﻿# billy, THe just better car 
+﻿# billy, The just better car 
 I am working on billy my code powered car. Ive worked with the R3 Arduino board the microcontroller. I coded and programed the microcontroller to make billy alive. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
