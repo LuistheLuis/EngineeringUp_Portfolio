@@ -13,15 +13,14 @@ I am working on billy my code powered car. Ive worked with the R3 Arduino board 
 
 [![Final Arduino Project]
 
+# Final scamatic
+[!relevent name] (https://docs.sunfounder.com/projects/3in1-kit/en/latest/_images/car_remote.png)
+
+
+
 # Second Milestone 
 
 My second milestone was me being able to code the microcontroler to have Billy move with a controller. I also have enough knowlege to explain in detail how the IR reciver works with a controler. I used this Arduino schematic to assist me witch is available here 
-
-
-# Billys schematic
-(https://docs.sunfounder.com/projects/3in1-kit/en/latest/_images/car_remote.png)
-
-
 
 [![Luis Milestone #2](https://res.cloudinary.com/marcomontalbano/image/upload/v1700601114/video_to_markdown/images/youtube--aZ8AYMIFTZI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=aZ8AYMIFTZI "Luis Milestone #2")
 
