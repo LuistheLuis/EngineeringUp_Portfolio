@@ -14,7 +14,7 @@ I am working on billy my code powered car. Ive worked with the R3 Arduino board 
 [![Final Arduino Project]
 
 # Final scamatic
-[!relevent name] (https://docs.sunfounder.com/projects/3in1-kit/en/latest/_images/car_remote.png)
+![relevent name] (https://docs.sunfounder.com/projects/3in1-kit/en/latest/_images/car_remote.png)
 
 
 
