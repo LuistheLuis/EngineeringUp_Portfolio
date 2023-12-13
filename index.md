@@ -7,6 +7,7 @@ I am working on billy my code powered car. Ive worked with the R3 Arduino board 
 
 
 
+
 # Final Milestone
 In this final video i showed and talked about my final project and its add-ons. I added and created new code to connect a button and speaker and have the button activate the speaker whn pressed to play a siren. I also added a new feature to where when billy starts up it plays a meledy. 
 
